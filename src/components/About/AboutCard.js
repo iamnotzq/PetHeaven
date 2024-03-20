@@ -20,7 +20,7 @@ const AboutCard = () => {
           </Link>
         </div>
         <div className='row image'>
-          <img src='/images/about-img-1.jpg' alt='' />
+          <img src='PetHeaven/images/about-img-1.jpg' alt='' />
           
         </div>
       </div>
