@@ -1,3 +1,5 @@
+const baseUrl='/PetHeaven';
+
 const Sdata = [
     {
       id: 1,
