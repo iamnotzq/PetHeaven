@@ -2,6 +2,7 @@ import React from "react"
 import "./About.css"
 import { Link } from "react-router-dom"
 
+const baseUrl = "/PetHeaven";
 const AboutCard = () => {
   return (
     <>
@@ -20,7 +21,7 @@ const AboutCard = () => {
           </Link>
         </div>
         <div className='row image'>
-          <img src='PetHeaven/images/about-img-1.jpg' alt='' />
+          <img src={`${baseUrl}/images/about-img-1.jpg`} alt='' />
           
         </div>
       </div>
