@@ -9,7 +9,7 @@ const Wdata = [
     },
     {
       id: 1,
-      cover: `${baseUrl}PetHeave/images/works/work-2.png`,
+      cover: `${baseUrl}/images/works/work-2.png`,
       title: "Donate",
       desc: "It takes alot to house, feed and shelter our lovely animals and this will be a huge help to us in maintaining our Heaven.",
     },
