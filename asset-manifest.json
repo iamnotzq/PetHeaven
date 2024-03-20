@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PetHeaven/static/css/main.8c0e7c32.css",
-    "main.js": "/PetHeaven/static/js/main.bf1b394b.js",
+    "main.js": "/PetHeaven/static/js/main.c66eed48.js",
     "static/media/image-heading.jpg": "/PetHeaven/static/media/image-heading.8c278ac92195e9f784f4.jpg",
     "index.html": "/PetHeaven/index.html",
     "main.8c0e7c32.css.map": "/PetHeaven/static/css/main.8c0e7c32.css.map",
-    "main.bf1b394b.js.map": "/PetHeaven/static/js/main.bf1b394b.js.map"
+    "main.c66eed48.js.map": "/PetHeaven/static/js/main.c66eed48.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0e7c32.css",
-    "static/js/main.bf1b394b.js"
+    "static/js/main.c66eed48.js"
   ]
 }
