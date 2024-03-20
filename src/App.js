@@ -1,19 +1,19 @@
 import "./App.css"
-import Navbar from "./common/Navbar/Navbar"
-import Home from "./components/pages/Home"
-import About from "./components/About/About"
-import Adopt from "./components/Adopt/Home"
+import Navbar from "./common/Navbar/Navbar.js"
+import Home from "./components/pages/Home.js"
+import About from "./components/About/About.js"
+import Adopt from "./components/Adopt/Home.js"
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import SinglePage from "./SinglePage/SinglePage"
+import SinglePage from "./SinglePage/SinglePage.js"
 
 
 
-import Release from "./components/Release/Release"
-import Contact from "./components/Contact/Contact"
-import Footer from "./common/footer/Footer"
-import Login from "./components/login/Login"
-import Register from "./components/login/Register"
+import Release from "./components/Release/Release.js"
+import Contact from "./components/Contact/Contact.js"
+import Footer from "./common/footer/Footer.js"
+import Login from "./components/login/Login.js"
+import Register from "./components/login/Register.js"
 
 
 function App() {
