@@ -19,7 +19,7 @@ import Register from "./components/login/Register.js"
 function App() {
   return (
     <>
-      <Router>
+      <Router basename = "/PetHeaven">
         <Navbar />
         <Routes>
           <Route path='/' element={<Home/>} />
